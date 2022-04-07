@@ -1,2 +1,2 @@
 # gds-reference-examples
-References to small encapsulated examples for GDS
+References to short demos and examples of GDS
